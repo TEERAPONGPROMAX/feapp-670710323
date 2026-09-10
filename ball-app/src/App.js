@@ -9,11 +9,6 @@ import NotFound from './pages/NotFound';
 
 
 
-const movies = [
-  { id: 1, title: 'Interstellar', genre: 'Sci-Fi',    year: 2014 },
-  { id: 2, title: 'Your Name',    genre: 'Animation', year: 2016 },
-  { id: 3, title: 'Parasite',     genre: 'Thriller',  year: 2019 },
-];
 /*
 function App() {
   return (
