@@ -1,5 +1,5 @@
-import Navbar from './compenents/Navbarr';
-import Footer from './compenents/Footer';
+import Navbar from './components/Navbarr';
+import Footer from './components/Footer';
 import { Routes, Route } from 'react-router-dom';
 import Home from './pages/Home';
 import Movies from './pages/Movies';
